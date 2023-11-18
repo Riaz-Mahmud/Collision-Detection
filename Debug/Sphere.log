@@ -1,0 +1,20 @@
+﻿D:\Microsoft\VisualStudio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(502,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+D:\Microsoft\VisualStudio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  app.cpp
+  BlobDemo.cpp
+D:\University\MSc in CS (USW)\Object Oriented Programming With Data Structures And Algorithms (202324) CS4D768_2023_TREF_SEP_v1\Assignment 1\Collision-Detection\Assignment-1_CollisionDetection\src\BlobDemo.cpp(27,50): warning C4305: 'argument': truncation from 'double' to 'const float'
+D:\University\MSc in CS (USW)\Object Oriented Programming With Data Structures And Algorithms (202324) CS4D768_2023_TREF_SEP_v1\Assignment 1\Collision-Detection\Assignment-1_CollisionDetection\src\BlobDemo.cpp(197,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  main.cpp
+  particle.cpp
+D:\University\MSc in CS (USW)\Object Oriented Programming With Data Structures And Algorithms (202324) CS4D768_2023_TREF_SEP_v1\Assignment 1\Collision-Detection\Assignment-1_CollisionDetection\include\coreMath.h(143,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\University\MSc in CS (USW)\Object Oriented Programming With Data Structures And Algorithms (202324) CS4D768_2023_TREF_SEP_v1\Assignment 1\Collision-Detection\Assignment-1_CollisionDetection\src\particle.cpp(25,17): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\University\MSc in CS (USW)\Object Oriented Programming With Data Structures And Algorithms (202324) CS4D768_2023_TREF_SEP_v1\Assignment 1\Collision-Detection\Assignment-1_CollisionDetection\src\particle.cpp(43,23): warning C4056: overflow in floating-point constant arithmetic
+  ParticleCollision.cpp
+D:\University\MSc in CS (USW)\Object Oriented Programming With Data Structures And Algorithms (202324) CS4D768_2023_TREF_SEP_v1\Assignment 1\Collision-Detection\Assignment-1_CollisionDetection\include\coreMath.h(143,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  pcontacts.cpp
+D:\University\MSc in CS (USW)\Object Oriented Programming With Data Structures And Algorithms (202324) CS4D768_2023_TREF_SEP_v1\Assignment 1\Collision-Detection\Assignment-1_CollisionDetection\include\coreMath.h(143,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\University\MSc in CS (USW)\Object Oriented Programming With Data Structures And Algorithms (202324) CS4D768_2023_TREF_SEP_v1\Assignment 1\Collision-Detection\Assignment-1_CollisionDetection\src\pcontacts.cpp(86,22): warning C4056: overflow in floating-point constant arithmetic
+  pworld.cpp
+D:\University\MSc in CS (USW)\Object Oriented Programming With Data Structures And Algorithms (202324) CS4D768_2023_TREF_SEP_v1\Assignment 1\Collision-Detection\Assignment-1_CollisionDetection\include\coreMath.h(143,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Sphere.vcxproj -> D:\University\MSc in CS (USW)\Object Oriented Programming With Data Structures And Algorithms (202324) CS4D768_2023_TREF_SEP_v1\Assignment 1\Collision-Detection\Assignment-1_CollisionDetection\Debug\Sphere.exe

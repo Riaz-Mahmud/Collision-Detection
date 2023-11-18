@@ -1,0 +1,3 @@
+C:\Users\Khaled\Documents\code\c++\Collision-Detection\Debug\Sphere.exe
+D:\University\MSc in CS (USW)\Object Oriented Programming With Data Structures And Algorithms (202324) CS4D768_2023_TREF_SEP_v1\Assignment 1\Collision-Detection\Collision-Detection\Debug\Sphere.exe
+D:\University\MSc in CS (USW)\Object Oriented Programming With Data Structures And Algorithms (202324) CS4D768_2023_TREF_SEP_v1\Assignment 1\Collision-Detection\Assignment-1_CollisionDetection\Debug\Sphere.exe
